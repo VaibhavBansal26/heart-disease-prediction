@@ -1,5 +1,6 @@
 # heart-disease-prediction
-Heart disease prediction using python
+
+Heart disease prediction using python,streamlit
 
 Choose a dataset for either a regression or classification problem.
 
