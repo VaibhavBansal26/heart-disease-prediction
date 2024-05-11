@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715414671624
+current_stage: None
+description: ''
+last_updated_timestamp: 1715414671624
+name: rfr_model
+run_id: b9065f00a95e4ae5a85ee17245c3d35e
+run_link: ''
+source: mlflow-artifacts:/538011573989777397/b9065f00a95e4ae5a85ee17245c3d35e/artifacts/heart_disease_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/538011573989777397/b9065f00a95e4ae5a85ee17245c3d35e/artifacts/heart_disease_model
+user_id: null
+version: 1
